@@ -1,19 +1,11 @@
 # Hey there 👋
 
+![Profile Picture](https://i.imgur.com/p9WuchB.gif)
+
 ✨You've reached the @CloudChaoszero (AKA @RaulingAverage) Github profile for everything `Data`!✨
 
+![Profile Picture](https://pbs.twimg.com/profile_images/1249139571054366721/LWVYfjGq_400x400.jpg)
 
-<div class="row">
-  <div class="column">
-<img src="https://i.imgur.com/p9WuchB.gif" alt="Dancing Gif" width="200" height="200">
-  </div>
-  <div class="column">
-<img src="https://pbs.twimg.com/profile_images/1249139571054366721/LWVYfjGq_400x400.jpg" alt="Profile Pic" width="200" height="200">
-  </div>
-  <div class="column" >
-<img src="https://i.imgur.com/p9WuchB.gif" alt="Dancing Gif" width="200" height="200">
-  </div>
-</div>
 
 
 Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data Science content, past presentations, or puns.
