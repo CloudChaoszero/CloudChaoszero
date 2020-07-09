@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**CloudChaoszero/CloudChaoszero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨You've reached the @CloudChaoszero (AKA @RaulingAverage) Github profile for everything `Data`!✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<div class="row">
+  <div class="column">
+<img src="https://i.imgur.com/p9WuchB.gif" alt="Dancing Gif" width="200" height="200">
+  </div>
+  <div class="column">
+<img src="https://pbs.twimg.com/profile_images/1249139571054366721/LWVYfjGq_400x400.jpg" alt="Profile Pic" width="200" height="200">
+  </div>
+  <div class="column" >
+<img src="https://i.imgur.com/p9WuchB.gif" alt="Dancing Gif" width="200" height="200">
+  </div>
+</div>
+
+
+Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data Science content, past presentations, or puns.
+
+## Getting to Know me
+
+- 🔭 I’m currently working at 
+     - [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction) as a Data Analyst 
+     - [Delta Analytics](deltanalytics.org/) as a Teaching Fellow
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     - Machine Learning best practices and more (stay tuned latter 2020)
+- 💬 Ask me about the intersection of Python and Data Science
+- 📫 How to reach me: Linkedin or Twitter @RaulingAverage
+- ⚡ Fun fact: I like to run, code, present, and more!
+
+Enjoy!
+
+
+![](https://quotesblog.net/wp-content/uploads/2018/09/spongebob-leaving-goodbye-gif.gif)
