@@ -2,9 +2,7 @@
 
 ![Profile Picture](https://i.imgur.com/p9WuchB.gif)
 
-✨You've reached the @CloudChaoszero (AKA @RaulingAverage) Github profile for everything `Data`!✨
-
-Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data Science content, past presentations, or puns.
+✨`Data`!✨`Data`!✨`Data`!✨
 
 ## Getting to Know me
 
@@ -16,6 +14,7 @@ Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn m
 - 💬 Ask me about the intersection of Python and Data Science
 - 📫 How to reach me: Linkedin or Twitter @RaulingAverage
 - ⚡ Fun fact: I like to run, code, present, and more!
+> Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data Science content, past presentations, or puns.
 
 [![Tableau Portfolio](https://pbs.twimg.com/media/EcimbpRUYAUdF-r?format=png&name=large)](https://public.tableau.com/profile/raul.maldonado#!/vizhome/Portfolio_52/Portfolio-2018?publish=yes)
 
