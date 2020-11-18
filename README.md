@@ -1,7 +1,5 @@
 # Hey there 👋
 
-![Profile Picture](https://i.imgur.com/p9WuchB.gif)
-
 ✨`Data`!✨`Data`!✨`Data`!✨
 
 ## Getting to Know me
