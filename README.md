@@ -2,8 +2,6 @@
 
 ✨`Data`!✨`Data`!✨`Data`!✨
 
-## Getting to Know me
-
 - 🔭 I’m currently working at 
      - [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction) as a Data Analyst 
      - [Delta Analytics](deltanalytics.org/) as a Teaching Fellow
