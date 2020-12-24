@@ -12,6 +12,4 @@
 - ⚡ Fun fact: I like to run, code, present, and more!
 > Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data Science content, past presentations, or puns.
 
-[![Tableau Portfolio](https://pbs.twimg.com/media/EcimbpRUYAUdF-r?format=png&name=large)](https://public.tableau.com/profile/raul.maldonado#!/vizhome/Portfolio_52/Portfolio-2018?publish=yes)
-
 Enjoy!
