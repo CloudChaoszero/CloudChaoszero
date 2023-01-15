@@ -6,7 +6,7 @@
 # 🔭 I’m currently contributing to the following:
 - [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction) as a Sr. Data Analyst
 - [East Bay YIMBY](https://www.eastbayyimby.org/) as a Co-Lead organizer
- - [Bike East Bay]([https://www.eastbayyimby.org/](https://bikeeastbay.org/)) as a Volunteer
+- [Bike East Bay](https://bikeeastbay.org/) as a Volunteer
 # 🌱 I’m currently mastering ...
 - Analytics & Analytic Engineering best practices
 - Data Leadership and Modern Data Stack Strategy
