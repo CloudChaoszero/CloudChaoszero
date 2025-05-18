@@ -1,29 +1,59 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Hello! I'm [Raul Maldonado](https://raulingaverage.dev/home)!
+<h1 align="center">👋 Hello, Hello! I'm <a href="https://raulingaverage.dev/home">Raul Maldonado</a></h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Wave hand">
+</p>
 
-✨`Data`!✨`Data`!✨`Data`!✨
+<p align="center">
+  <b>✨ Data! ✨ Data! ✨ Data! ✨</b>
+</p>
 
-# 🔭 I’m currently contributing to the following:
-- [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction) as a Sr. Data Analyst
-- [East Bay YIMBY](https://www.eastbayyimby.org/) as a Co-Lead organizer
-- [Bike East Bay](https://bikeeastbay.org/) as a Volunteer
-# 🌱 I’m currently mastering ...
-- Analytics & Analytic Engineering best practices
-- Data Leadership and Modern Data Stack Strategy
+---
 
-# 💬 Ask me about
-- Why I like Lagging commas
-- How California got into the Housing Crisis in the first place, and how it's becoming nationwide.
-- How America could have been a multi-modal culture, but is currently in car culture today.
-# ⚡ Fun fact
-- I like to run, urban commute, code, present, and more!
-- Currently learning Spanish (5th Generation American/Latino)
+### 🔭 What I'm Working On
 
-# 📫 How to reach me
+- 🎯 **Sr. Data Analyst** at [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction)
+- 🏙️ **Co-Lead Organizer** at [East Bay YIMBY](https://www.eastbayyimby.org/)
+- 🚲 **Volunteer** with [Bike East Bay](https://bikeeastbay.org/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulm8/)](https://www.linkedin.com/in/raulm8/)  
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RaulingAverage)](https://twitter.com/RaulingAverage)
+---
 
-> Check out my blog ([RaulingAverage.dev](https://raulingaverage.dev/)) to learn more about Data content, past presentations, puns, etc
+### 🌱 What I'm Learning
 
-Enjoy!
+- 🧠 Analytics & Analytic Engineering best practices  
+- ⚙️ Modern Data Stack strategy & Data Leadership
+
+---
+
+### 💬 Ask Me About
+
+- 📚 Why I like **lagging commas**
+- 🏠 How California’s **housing crisis** began—and why it's going national
+- 🚶‍♂️ Why the U.S. missed the mark on becoming a **multi-modal culture**
+
+---
+
+### ⚡ Fun Facts
+
+- 🏃 I love to **run, code, present, and urban commute**
+- 🇺🇸 Fifth-gen American/Latino — learning **Spanish** (¡poquito a poquito!)
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/raulm8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://twitter.com/RaulingAverage">
+    <img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://raulingaverage.dev/">
+    <img src="https://img.shields.io/badge/Blog-RaulingAverage.dev-7ebc59?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge">
+  </a>
+</p>
+
+---
+
+> 🎙️ Check out [RaulingAverage.dev](https://raulingaverage.dev/) for blog posts, puns, presentations, and more insights into the world of data!
