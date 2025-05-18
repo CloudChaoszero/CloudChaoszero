@@ -12,7 +12,7 @@
 
 ### 🔭 What I'm Working On
 
-- 🎯 **Sr. Data Analyst** at [Autodesk](https://www.autodesk.com/solutions/architecture-engineering-construction/construction)
+- 🎯 Sr. Data Analyst & Analytics Engineering.
 - 🏙️ **Co-Lead Organizer** at [East Bay YIMBY](https://www.eastbayyimby.org/)
 - 🚲 **Volunteer** with [Bike East Bay](https://bikeeastbay.org/)
 
