@@ -46,9 +46,6 @@
   <a href="https://www.linkedin.com/in/raulm8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://twitter.com/RaulingAverage">
-    <img src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
   <a href="https://raulingaverage.dev/">
     <img src="https://img.shields.io/badge/Blog-RaulingAverage.dev-7ebc59?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge">
   </a>
